@@ -69,6 +69,9 @@ INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Maria', 'maria@gmail
 INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Bob', 'bob@gmail.com');
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Alex', 'alex@gmail.com');
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com');
+``` 
+## Visão final do projeto
+![image](https://user-images.githubusercontent.com/74027319/150177246-b534adc0-b30d-4a8a-b902-edbe86067dac.png)
 
 
 
